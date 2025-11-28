@@ -1,4 +1,4 @@
-# DemoApplication
+# SpringDemoProject
 
 Spring Boot api for creating, reading, updating and deleting students from a database.
 
